@@ -13,7 +13,7 @@ Kaaronen, Roope O., Walsh, Matthew J., Henrich, Allison K., Wisher, Isobel, Miu,
 
 ![](https://mfr.osf.io/export?url=https://osf.io/download/962es/?direct=%26mode=render&format=2400x2400.jpeg)
 
-Kaaronen, Roope O., Henrich, Allison K., Walsh, Matthew J., Wisher, Isobel, Manninen, Mikael A., Eronen, Jussi T, & Riede, Felix. (2024). [The ties that bind: Computational, cross-cultural analyses of knots reveal their cultural evolutionary history and significance](https://doi.org/10.31219/osf.io/fw7s6). [Open access at OSF (preprint)](https://doi.org/10.31219/osf.io/fw7s6).
+Kaaronen, Roope O., Henrich, Allison K., Walsh, Matthew J., Wisher, Isobel, Manninen, Mikael A., Eronen, Jussi T, & Riede, Felix. (2024). [The ties that bind: computational, cross-cultural analyses of knots reveal their cultural evolutionary history and significance](https://doi.org/10.31219/osf.io/fw7s6). [Open access at OSF (preprint)](https://doi.org/10.31219/osf.io/fw7s6).
 
 Kaaronen, Roope O., Manninen, Mikael A., & Eronen, Jussi T. (2023). [Body-based units of measure in cultural evolution](https://doi.org/10.1126/science.adf1936). _Science, 380_(6648), 948-954. [Open access at OSF](https://osf.io/rjde7/).
 
