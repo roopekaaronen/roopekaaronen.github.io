@@ -11,6 +11,10 @@ Kaaronen, Roope O., Walsh, Matthew J., Henrich, Allison K., Wisher, Isobel, Miu,
 
 > Few cultural practices beyond language are as widespread as string figures. Their global distribution and potential to yield insights into cultural transmission and cognition have long been noted. Yet, it remains unknown how or when this behavior originated. We combined a global cross-cultural inventory of string figures with a novel methodology based on knot theory. We performed a computational analysis of a global sample string figures. We found 83 recurring string figure designs, some of which are regionally restricted while others display a global distribution. Their clear geographic distribution and sturctural details reveal processes of cultural transmission, innovation, and convergent evolution. Most strikingly, the global distribution of some figures raises the possibility of shared ancient origins.
 
+![](https://mfr.osf.io/export?url=https://osf.io/download/962es/?direct=%26mode=render&format=2400x2400.jpeg)
+
+Kaaronen, Roope O., Henrich, Allison K., Walsh, Matthew J., Wisher, Isobel, Manninen, Mikael A., Eronen, Jussi T, & Riede, Felix. (2024). [The ties that bind: Computational, cross-cultural analyses of knots reveal their cultural evolutionary history and significance](https://doi.org/10.31219/osf.io/fw7s6). [Open access at OSF (preprint)](https://doi.org/10.31219/osf.io/fw7s6).
+
 Kaaronen, Roope O., Manninen, Mikael A., & Eronen, Jussi T. (2023). [Body-based units of measure in cultural evolution](https://doi.org/10.1126/science.adf1936). _Science, 380_(6648), 948-954. [Open access at OSF](https://osf.io/rjde7/).
 
 > Measurement systems are important drivers of cultural and technological evolution. We document body-based measurement systems in 186 cultures, illustrating how body-based measurement is an activity common to cultures around the world. We argue that body-based units have had, and may still have, advantages over standardized systems, such as in the design of ergonomic technologies. This helps explain the persistence of body-based measurement centuries after the first standardized measurement systems emerged.
