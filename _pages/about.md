@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - https://roopekaaronen.net/
 ---
 
 I'm a postdoctoral researcher at the University of Helsinki. I consider myself a multidisciplinary human scientist. I'm interested in how cultures and technologies evolve, and how people — past and present, across cultural boundaries — have solved everyday problems and constructed knowledge systems. Recently, I have developed an interest in ethnomathematics, and I am currently investigating the evolution of a suite of string technologies.
