@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+Find my [full academic CV here](https://drive.google.com/file/d/1Gf0CXsRwjstzPKXYbsZ1g0SxKQPU3GPj/view?usp=sharing). CV in brief below.
+
 ## Education
 
 * Ph.D. in Social Sciences, University of Helsinki, 2020
