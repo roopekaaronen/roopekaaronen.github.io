@@ -7,7 +7,7 @@ author_profile: true
 
 ## Research highlights
 
-Kaaronen, Roope O., Walsh, Matthew J., Henrich, Allison K., Wisher, Isobel, Miu, Elena, Manninen, Mikael A., Eronen, Jussi T, & Riede, Felix. (2024). [A global cross-cultural analysis of string figures reveals evidence of deep transmission and innovation](https://osf.io/preprints/osf/yxpg8). [[Dataset]](https://osf.io/skzvp/).
+Kaaronen, Roope O., Walsh, Matthew J., Henrich, Allison K., Wisher, Isobel, Miu, Elena, Manninen, Mikael A., Eronen, Jussi T, & Riede, Felix. (2024). [A global cross-cultural analysis of string figures reveals evidence of deep transmission and innovation](https://osf.io/preprints/osf/yxpg8). _Journal of the Royal Society Interface_ 21.221 (2024). [[Dataset]](https://osf.io/skzvp/).
 
 > Few cultural practices beyond language are as widespread as string figures. Their global distribution and potential to yield insights into cultural transmission and cognition have long been noted. Yet, it remains unknown how or when this behavior originated. We combined a global cross-cultural inventory of string figures with a novel methodology based on knot theory. We performed a computational analysis of a global sample string figures. We found 83 recurring string figure designs, some of which are regionally restricted while others display a global distribution. Their clear geographic distribution and sturctural details reveal processes of cultural transmission, innovation, and convergent evolution. Most strikingly, the global distribution of some figures raises the possibility of shared ancient origins.
 
@@ -55,9 +55,9 @@ Kaaronen, Roope O., and Rietveld, Erik. [Practical lessons for creating affordan
 
 Raymond, Christopher M., et al. [Engaging with the pragmatics of relational thinking, leverage points and transformations–Reply to West et al.](https://www.tandfonline.com/doi/abs/10.1080/26395916.2020.1867645) _Ecosystems and People_ 17.1 (2021): 1-5.
 
-Kaaronen, Roope O. [Mycological rationality: Heuristics, perception and decision-making in mushroom foraging](https://doi.org/10.1017/S1930297500007841). _Judgment and Decision Making_ 15.5 (2020): 630-647.
+Kaaronen, Roope O. [Mycological rationality: Heuristics, perception and decision-making in mushroom foraging](https://doi.org/10.1017/S1930297500007841). _Judgment and Decision Making_ 15.5 (2020): 630-647. [[Dataset]](https://osf.io/rafke/).
 
-Kaaronen, Roope O., and Nikita Strelkovskii. [Cultural evolution of sustainable behaviors: Pro-environmental tipping points in an agent-based model](https://doi.org/10.1016/j.oneear.2020.01.003). _One Earth_ 2.1 (2020): 85-97.
+Kaaronen, Roope O., and Nikita Strelkovskii. [Cultural evolution of sustainable behaviors: Pro-environmental tipping points in an agent-based model](https://doi.org/10.1016/j.oneear.2020.01.003). _One Earth_ 2.1 (2020): 85-97. [[Dataset]](https://osf.io/xqams/). [Model](https://doi.org/10.31234/osf.io/w6dpa).
 
 Kaaronen, Roope O.. [Steps to a Sustainable Mind: Explorations into the Ecology of Mind and Behaviour](http://urn.fi/URN:ISBN:978-951-51-6304-2). (2020).
 
