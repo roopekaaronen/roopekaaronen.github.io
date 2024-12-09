@@ -33,4 +33,4 @@ Find my [full academic CV here](https://drive.google.com/file/d/1Gf0CXsRwjstzPKX
 
 
 ***
-###### © Roope Kaaronen, 2023
+###### © Roope Kaaronen, 2024

@@ -26,4 +26,4 @@ For my full media outreach, look [here](https://researchportal.helsinki.fi/fi/pe
 
 
 ***
-###### © Roope Kaaronen, 2023
+###### © Roope Kaaronen, 2024
