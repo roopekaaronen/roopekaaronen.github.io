@@ -11,6 +11,7 @@ For my full media outreach, look [here](https://researchportal.helsinki.fi/fi/pe
 ## Media highlights
 
 * Our work on string figures was featured on the [Royal Society blog](https://royalsociety.org/blog/2024/12/string-figures-our-shared-history-of-play-culture-and-mathematics/).
+* My lecture on string figures at Aarhus University was published on YouTube. [Check it out!](https://www.youtube.com/watch?v=wJaIHBrcntU)
 * Our work was recently highlighted at [Science News](https://www.science.org/content/article/why-human-societies-still-use-arms-feet-and-other-body-parts-measure-things), who wrote a popular scientific piece on our research.
 * I also visited the [Science Podcast](https://www.science.org/content/podcast/how-we-measure-world-our-bodies-and-hunting-critical-minerals) and [Physics World Podcast](https://physicsworld.com/a/body-based-units-of-measurement-offer-advantages-over-standardized-systems-speaking-of-oppenheimer/).
 
