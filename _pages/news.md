@@ -10,6 +10,7 @@ For my full media outreach, look [here](https://researchportal.helsinki.fi/fi/pe
 
 ## Media highlights
 
+* Our work on the anthropology and archaeology of knots [was covered by PNAS](https://www.pnas.org/post/journal-club/knots-archaeologists-see-evidence-cultural-exchange-and-perhaps-early-sparks-cognition).
 * I visited the [Many Minds](https://disi.org/manyminds/) podcast to talk about string theory (string figures and knots). The episode is available on [Spotify](https://open.spotify.com/episode/5H6fWxqssc0xMY1rD9mRoW?si=c9fc94776e0f4c31) and [Apple Podcasts](https://podcasts.apple.com/us/podcast/string-theories/id1499167824?i=1000689541573).
 * Our work on string figures was featured on the [Royal Society blog](https://royalsociety.org/blog/2024/12/string-figures-our-shared-history-of-play-culture-and-mathematics/) and the [American Mathematical Society](https://mathvoices.ams.org/mathmedia/tonys-take-december-2024/#two).
 * My lecture on string figures at Aarhus University was published on YouTube. [Check it out!](https://www.youtube.com/watch?v=wJaIHBrcntU)
