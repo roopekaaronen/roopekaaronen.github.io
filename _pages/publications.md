@@ -7,7 +7,7 @@ author_profile: true
 
 ## Research highlights
 
-Kaaronen, Roope O., Walsh, Matthew J., Henrich, Allison K., Wisher, Isobel, Miu, Elena, Manninen, Mikael A., Eronen, Jussi T, & Riede, Felix. (2024). [A global cross-cultural analysis of string figures reveals evidence of deep transmission and innovation](https://osf.io/preprints/osf/yxpg8). _Journal of the Royal Society Interface_ 21.221 (2024). [[Dataset]](https://osf.io/skzvp/).
+Kaaronen, Roope O., Walsh, Matthew J., Henrich, Allison K., Wisher, Isobel, Miu, Elena, Manninen, Mikael A., Eronen, Jussi T, & Riede, Felix. (2024). [A global cross-cultural analysis of string figures reveals evidence of deep transmission and innovation](https://doi.org/10.1098/rsif.2024.0673). _Journal of the Royal Society Interface_ 21.221 (2024). [[Dataset]](https://osf.io/skzvp/).
 
 > Few cultural practices beyond language are as widespread as string figures. Their global distribution and potential to yield insights into cultural transmission and cognition have long been noted. Yet, it remains unknown how or when this behavior originated. We combined a global cross-cultural inventory of string figures with a novel methodology based on knot theory. We performed a computational analysis of a global sample string figures. We found 83 recurring string figure designs, some of which are regionally restricted while others display a global distribution. Their clear geographic distribution and sturctural details reveal processes of cultural transmission, innovation, and convergent evolution. Most strikingly, the global distribution of some figures raises the possibility of shared ancient origins.
 
@@ -17,6 +17,8 @@ Here I am demonstrating the making of _tetrakyklos plinthios brokhos_, an Ancien
 Kaaronen, Roope O., Henrich, Allison K., Walsh, Matthew J., Wisher, Isobel, Manninen, Mikael A., Eronen, Jussi T, & Riede, Felix. (2024). [The ties that bind: computational, cross-cultural analyses of knots reveal their cultural evolutionary history and significance](https://doi.org/10.1017/S0959774325000071). _Cambridge Archaeological Journal_ (2025). [[Dataset]](https://osf.io/nj423/).
 
 > Knots have been essential to human technology and survival throughout history. This study examines knotting traditions across time and space, analyzing 332 knots from 83 ethnographically or archaeologically documented societies over ten millennia. Using a novel approach that combines knot theory with computational string matching, we demonstrate that knotted structures can be precisely represented and compared across cultures. Our methodology identifies a core set of knots found cross-culturally, offering insights into their cultural transmission and ubiquity. We explore knots within cultural evolution, showing extensive know-how in knot-tying from the past to the present. The study also suggests that this methodology could apply to a wider range of string technologies.
+
+Kaaronen, Roope O. (2025). [Living in the Mycelial World: A global cross-cultural ethnomycological review](https://doi.org/10.1111/tops.70003). _Topics in Cognitive Science_ (online first). [[Dataset]](http://doi.org/10.17605/OSF.IO/5B8QR).
 
 Kaaronen, Roope O., Manninen, Mikael A., & Eronen, Jussi T. (2023). [Body-based units of measure in cultural evolution](https://doi.org/10.1126/science.adf1936). _Science, 380_(6648), 948-954. [Open access at OSF](https://osf.io/rjde7/). [[Dataset]](https://osf.io/fegvr/).
 
