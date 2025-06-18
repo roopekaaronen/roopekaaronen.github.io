@@ -28,11 +28,13 @@ Kaaronen, Roope O., Manninen, Mikael A., & Eronen, Jussi T. (2023). [Body-based 
 
 ## Past publications
 
+Manninen, Mikael A., Kaaronen, Roope O., Eronen, Jussi T., and Tallavaara M. [The effect of the 8.2 ka cold event on Fennoscandian hunter-gatherer metapopulation inferred from climatic, environmental, and archaeological signals](https://doi.org/10.1016/j.qeh.2025.100065). _Quaternary Environments and Humans_ 3.2 (2025).
+
 Kaaronen, Roope O., Manninen, Mikael A., and Eronen, Jussi T. [Measuring beyond the standard: Informal measurement systems as cognitive technologies](https://doi.org/10.1111/tops.127705). _Topics in Cognitive Science_ (2024).
 
 Falandays, J. Benjamin, et al. [All intelligence is collective intelligence](https://pure.mpg.de/rest/items/item_3514481/component/file_3514482/content). _Journal of Multiscale Neuroscience_ 2.1 (2023): 169-191.
 
-Kaaronen, Roope O., Manninen, Mikael A., and Eronen, Jussi T. [Rules of thumb, from Holocene to Anthropocene](https://doi.org/10.1177/20530196221149105). _The Anthropocene Review_ (2023).
+Kaaronen, Roope O., Manninen, Mikael A., and Eronen, Jussi T. [Rules of thumb, from Holocene to Anthropocene](https://doi.org/10.1177/20530196221149105). _The Anthropocene Review_ 10.3 (2023): 685-709.
 
 Little, John C., et al. [Earth systems to Anthropocene systems: An evolutionary, system-of-systems, convergence paradigm for interdependent societal challenges](https://pubs.acs.org/doi/10.1021/acs.est.2c06203). _Environmental Science & Technology_ 57.14 (2023): 5504-5520.
 
