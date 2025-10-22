@@ -3,7 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-published: false
+published: true
 ---
 
 {% include base_path %}
@@ -17,7 +17,10 @@ Find my [full academic CV here](https://drive.google.com/file/d/1Gf0CXsRwjstzPKX
 
 ## Research
 
-* 2021-: Academy of Finland Postdoctoral Researcher
+* 2025-2028: Core Fellow
+  * [University of Helsinki, Helsinki Collegium for Advanced Studies](https://www.helsinki.fi/en/helsinki-collegium-advanced-studies/)
+
+* 2022-2025: Academy of Finland Postdoctoral Researcher
   * University of Helsinki, Faculty of Biological and Environmental Sciences
   * [Past Present Sustainability Research Unit (PAES)](https://researchportal.helsinki.fi/en/organisations/past-present-sustainability-paes)
 
