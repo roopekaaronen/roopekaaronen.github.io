@@ -2,7 +2,8 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: false
+author_profile: true
+published: false
 ---
 
 {% include base_path %}
