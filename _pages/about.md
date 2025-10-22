@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoctoral researcher at the University of Helsinki. I am a multidisciplinary human scientist, with an interest in how cultures and technologies evolve, and how people — past and present, across cultural boundaries — have solved everyday problems and constructed knowledge systems. Recently, I have developed an interest in ethnomathematics, and I am currently investigating the evolution of a suite of string technologies (_ethnotopology_). Another current topic of interest is the role of play in cultural and cognitive evolution.
+I'm a postdoctoral researcher at the Helsinki Collegium for Advanced Studies, University of Helsinki. I am a multidisciplinary human scientist, with an interest in how cultures and technologies evolve, and how people — past and present, across cultural boundaries — have solved everyday problems and constructed knowledge systems. Recently, I have developed an interest in ethnomathematics, and I am currently investigating the evolution of a suite of string technologies (_ethnotopology_). Another current topic of interest is the role of play in cultural and cognitive evolution.
 
 My work crosses the borders of cognitive science, (cognitive) anthropology, cultural evolution, complexity science, and sustainability science. Regarding the latter, I (try to) apply my research to help preserve a more ecologically and culturally diverse world. I am a part of the [Past Present Sustainability Research Unit (PAES)](https://researchportal.helsinki.fi/en/organisations/past-present-sustainability-paes).
 
