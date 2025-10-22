@@ -80,4 +80,4 @@ Kaaronen, Roope O. [Scientific Support for Sustainable Development Policies: A T
 
 
 ***
-###### © Roope Kaaronen, 2024
+###### © Roope Kaaronen, 2025
