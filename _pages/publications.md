@@ -14,7 +14,7 @@ Kaaronen, Roope O., Walsh, Matthew J., Henrich, Allison K., Wisher, Isobel, Miu,
 Here I am demonstrating the making of _tetrakyklos plinthios brokhos_, an Ancient Greek string figure.
 ![](https://lh3.googleusercontent.com/d/1YWodM58sccedO5MhJGWgO2jnyXcjcf8k)
 
-Kaaronen, Roope O., Henrich, Allison K., Walsh, Matthew J., Wisher, Isobel, Manninen, Mikael A., Eronen, Jussi T, & Riede, Felix. (2024). [The ties that bind: computational, cross-cultural analyses of knots reveal their cultural evolutionary history and significance](https://doi.org/10.1017/S0959774325000071). _Cambridge Archaeological Journal_ (2025). [[Dataset]](https://osf.io/nj423/).
+Kaaronen, Roope O., Henrich, Allison K., Walsh, Matthew J., Wisher, Isobel, Manninen, Mikael A., Eronen, Jussi T, & Riede, Felix. (2025). [The ties that bind: computational, cross-cultural analyses of knots reveal their cultural evolutionary history and significance](https://doi.org/10.1017/S0959774325000071). _Cambridge Archaeological Journal_ (2025). [[Dataset]](https://osf.io/nj423/).
 
 > Knots have been essential to human technology and survival throughout history. This study examines knotting traditions across time and space, analyzing 332 knots from 83 ethnographically or archaeologically documented societies over ten millennia. Using a novel approach that combines knot theory with computational string matching, we demonstrate that knotted structures can be precisely represented and compared across cultures. Our methodology identifies a core set of knots found cross-culturally, offering insights into their cultural transmission and ubiquity. We explore knots within cultural evolution, showing extensive know-how in knot-tying from the past to the present. The study also suggests that this methodology could apply to a wider range of string technologies.
 
@@ -28,7 +28,11 @@ Kaaronen, Roope O., Manninen, Mikael A., & Eronen, Jussi T. (2023). [Body-based 
 
 ## Past publications
 
+Kaaronen, Roope O. [Tangible Mathematics: Ethnotopology and Ethnometrology as Frameworks for Cross-Cultural Ethnomathematical Research](https://journalofmathematicsandculture.wordpress.com/wp-content/uploads/2026/01/3-kaaronen-final-tangible-mathematics.pdf). Journal of Mathematics and Culture (2026), Special Issue: IndigMEC2, The Second Indigenous Mathematics Education Conference. Guovdageaidnu/Kautokeino, Norway, October 14–16, 2024.
+
 Manninen, Mikael A., Kaaronen, Roope O., Eronen, Jussi T., and Tallavaara M. [The effect of the 8.2 ka cold event on Fennoscandian hunter-gatherer metapopulation inferred from climatic, environmental, and archaeological signals](https://doi.org/10.1016/j.qeh.2025.100065). _Quaternary Environments and Humans_ 3.2 (2025).
+
+Räisänen, Helmi, Hakala, Emma, Kaaronen, Roope, Manninen, Mikael, Parviainen, Tuuli, Toivanen, Tero, Vadén, Tere, and Eronen, Jussi T. [Supply Chain Imaginaries of the Green Transition: Resource Governance in the Finnish Battery Cluster](https://doi.org/10.1016/j.futures.2025.103668). _Futures_ (2025).
 
 Kaaronen, Roope O., Manninen, Mikael A., and Eronen, Jussi T. [Measuring beyond the standard: Informal measurement systems as cognitive technologies](https://doi.org/10.1111/tops.127705). _Topics in Cognitive Science_ (2024).
 
