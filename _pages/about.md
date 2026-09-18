@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-*Forager of information and mushrooms*
+**Forager of information and mushrooms**
 
 I'm a postdoctoral researcher at the Helsinki Collegium for Advanced Studies, University of Helsinki. I study curious things, on the working assumption that this is where insight hides.
 
