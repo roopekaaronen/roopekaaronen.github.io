@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Forager of information and mushrooms"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
