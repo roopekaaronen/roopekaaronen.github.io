@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 I'm a postdoctoral researcher at the Helsinki Collegium for Advanced Studies, University of Helsinki. I study curious things, on the working assumption that this is where insight hides.
 
 Lately that has meant string: knots, netting, string figures, a suite of technologies so old and ordinary that they often escape our attention. I call the study of their evolution _ethnotopology_. It sits inside my larger interest in ethnomathematics, the mathematics apparent in everyday life and crafts.
