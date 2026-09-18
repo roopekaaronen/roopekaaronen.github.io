@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "About"
+title: "Forager of information and mushrooms"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-_Forager of information and mushrooms; aspiring string theorist_
 
 I'm a postdoctoral researcher at the Helsinki Collegium for Advanced Studies, University of Helsinki. I study curious things, on the working assumption that this is where insight hides.
 
