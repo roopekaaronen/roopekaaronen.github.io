@@ -28,7 +28,13 @@ Kaaronen, Roope O., Manninen, Mikael A., & Eronen, Jussi T. (2023). [Body-based 
 
 ## Past publications
 
+Kaaronen, Roope O., Billings, Marlena, Wisher, Isobel, Schwendler, Rebecca, Egeland, Charles P., Andersen, Marc M., and Riede, Felix. [Top of the world: A global cross-cultural review of spinning tops](https://osf.io/preprints/socarxiv/b5t8e_v1). _SocArXiv_ preprint (2026).
+
 Kaaronen, Roope O. [Tangible Mathematics: Ethnotopology and Ethnometrology as Frameworks for Cross-Cultural Ethnomathematical Research](https://journalofmathematicsandculture.wordpress.com/wp-content/uploads/2026/01/3-kaaronen-final-tangible-mathematics.pdf). Journal of Mathematics and Culture (2026), Special Issue: IndigMEC2, The Second Indigenous Mathematics Education Conference. Guovdageaidnu/Kautokeino, Norway, October 14–16, 2024.
+
+Parviainen, Tuuli, Reinekoski, Tapio, Salomaa, Anna, Laine, Emilia, Janasik, Nina, Kaaronen, Roope O., Eronen, Jussi T., and Hukkinen, Janne I. [Strategic situational awareness for crisis management](https://doi.org/10.1016/j.ssci.2026.107329). _Safety Science_ 203 (2026): 107329.
+
+Little, John C., Kaaronen, Roope O., Muthukrishna, Michael, Elsawah, Sondoss, Bennett, Max S., Khayal, Inas, Hukkinen, Janne I., Barton, C. Michael, Jakeman, Anthony J., and Farid, Amro M. [One Earth + One Health: An agile, evolutionary, system-of-systems convergence paradigm](https://pmc.ncbi.nlm.nih.gov/articles/PMC13063429/). _Environmental Science & Technology_ 60.13 (2026): 9725.
 
 Manninen, Mikael A., Kaaronen, Roope O., Eronen, Jussi T., and Tallavaara M. [The effect of the 8.2 ka cold event on Fennoscandian hunter-gatherer metapopulation inferred from climatic, environmental, and archaeological signals](https://doi.org/10.1016/j.qeh.2025.100065). _Quaternary Environments and Humans_ 3.2 (2025).
 

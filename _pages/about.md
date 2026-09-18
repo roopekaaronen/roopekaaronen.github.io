@@ -8,18 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoctoral researcher at the Helsinki Collegium for Advanced Studies, University of Helsinki. I am a multidisciplinary human scientist, with an interest in how cultures and technologies evolve, and how people — past and present, across cultural boundaries — have solved everyday problems and constructed knowledge systems. Recently, I have developed an interest in ethnomathematics, and I am currently investigating the evolution of a suite of string technologies (_ethnotopology_). Another current topic of interest is the role of play in cultural and cognitive evolution.
+_Forager of information and mushrooms; aspiring string theorist_
 
-My work crosses the borders of cognitive science, (cognitive) anthropology, cultural evolution, complexity science, and sustainability science. Regarding the latter, I (try to) apply my research to help preserve a more ecologically and culturally diverse world. I am a part of the [Past Present Sustainability Research Unit (PAES)](https://researchportal.helsinki.fi/en/organisations/past-present-sustainability-paes).
+I'm a postdoctoral researcher at the Helsinki Collegium for Advanced Studies, University of Helsinki. I study curious things, on the working assumption that this is where insight hides.
 
+Lately that has meant string: knots, netting, string figures, a suite of technologies so old and ordinary that they often escape our attention. I call the study of their evolution _ethnotopology_. It sits inside my larger interest in ethnomathematics, the mathematics apparent in everyday life and crafts.
 
-As a researcher, I am interested in the broad methodological palette, ranging from computational methods to ethnographic research. As a human, my interest is piqued by sea kayaking, the outdoors, [photography](https://500px.com/p/roopekaaronen?view=photos), knots and string games, woodwork, and music. I am also a mushroom forager and a student of ethnomycology. Wherever possible, I try to combine these interests: I have a firm belief that the best theory emerges from practical knowledge.
+> Where does mathematics come from? Why do humans, separated by oceans and millennia, keep arriving at the same solutions when innovating or solving problems? What knowledge is implicit in everyday material culture?
 
-If you would like to get in touch, feel free to drop me a line. I'm always open for discussing new ideas and collaborations.
+Typically, I work by taking something ordinary, such as a knot or a children's game, and look for a way to formalise it. That usually involves throwing computational machinery at everyday objects. But equally often, it means sitting down with a length of string, or heading outdoors, and figuring it out the hard way.
 
+As a scientist, my work crosses cognitive science, cognitive anthropology, cross-cultural research, cultural evolution, complexity science, and sustainability science. I'm part of the [Past Present Sustainability Research Unit (PAES)](https://researchportal.helsinki.fi/en/organisations/past-present-sustainability-paes), where I try to put my work in service of a more biologically and culturally diverse world.
 
+As a human, my interest is piqued by sea kayaking, music, the outdoors, photography, woodwork, knots, and mushrooms. I try to combine research and leisure wherever possible, on the firm belief that the best theory grows out of practical knowledge.
 
-
+If you'd like to get in touch, feel free to drop me a line. I'm always open to new ideas and collaborations.
 
 ***
 ###### © Roope Kaaronen, 2026
