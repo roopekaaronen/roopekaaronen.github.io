@@ -15,7 +15,7 @@ Lately that has meant string: knots, netting, string figures, a suite of technol
 
 > Where does mathematics come from? Why do humans, separated by oceans and millennia, keep arriving at the same solutions when innovating or solving problems? What knowledge is implicit in everyday material culture?
 
-Typically, I work by taking something ordinary, such as a knot or a children's game, and look for a way to formalise it. That usually involves throwing computational machinery at everyday objects. But equally often, it means sitting down with a length of string, or heading outdoors, and figuring it out the hard way.
+Typically, I work by taking something ordinary, such as a knot or a children's game, and look for a way to formalise it for comparative study. That usually involves throwing computational machinery at everyday objects. But equally often, it means sitting down with a length of string, or heading outdoors, and figuring it out the hard way. Over the years, I've also worked on the history of measurement (ethnometrology), toys (e.g., spinning tops), ethnomycology (the cultural study of fungi), and collective behaviour.
 
 As a scientist, my work crosses cognitive science, cognitive anthropology, cross-cultural research, cultural evolution, complexity science, and sustainability science. I'm part of the [Past Present Sustainability Research Unit (PAES)](https://researchportal.helsinki.fi/en/organisations/past-present-sustainability-paes), where I try to put my work in service of a more biologically and culturally diverse world.
 
