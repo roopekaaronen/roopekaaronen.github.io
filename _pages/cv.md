@@ -17,7 +17,7 @@ Find my [full academic CV here](https://drive.google.com/file/d/1Gf0CXsRwjstzPKX
 
 ## Research
 
-* 2025-2028: Core Fellow
+* 2025-2029: Core Fellow
   * [University of Helsinki, Helsinki Collegium for Advanced Studies](https://www.helsinki.fi/en/helsinki-collegium-advanced-studies/)
 
 * 2022-2025: Academy of Finland Postdoctoral Researcher

@@ -10,6 +10,7 @@ For my full media outreach, look [here](https://researchportal.helsinki.fi/fi/pe
 
 ## Media highlights
 
+* I finally got to give an answer for the _Children's Science Questions_ (_Lasten Tiedekysymykset_) column in [Helsingin Sanomat](https://www.hs.fi/tiede/art-2000012218134.html). It's an important question about buckets.
 * I was interviewed for [Helsingin Sanomat](https://www.hs.fi/tiede/art-2000011906743.html) on the question of where technological evolution is taking humankind (I don't pretend to know).
 * Our work on the anthropology and archaeology of knots [was covered by PNAS](https://www.pnas.org/post/journal-club/knots-archaeologists-see-evidence-cultural-exchange-and-perhaps-early-sparks-cognition).
 * I visited the [Many Minds](https://disi.org/manyminds/) podcast to talk about string theory (string figures and knots). The episode is available on [Spotify](https://open.spotify.com/episode/5H6fWxqssc0xMY1rD9mRoW?si=c9fc94776e0f4c31) and [Apple Podcasts](https://podcasts.apple.com/us/podcast/string-theories/id1499167824?i=1000689541573).
