@@ -11,7 +11,7 @@ redirect_from:
 
 I'm a postdoctoral researcher at the Helsinki Collegium for Advanced Studies, University of Helsinki. I study curious things, on the working assumption that this is where insight hides.
 
-Lately that has meant string[^1]: knots, netting, string figures, a suite of technologies so old and ordinary that they often escape our attention. I call the study of their evolution _ethnotopology_. It sits inside my larger interest in ethnomathematics, the mathematics apparent in everyday life and crafts.
+Lately that has meant string: knots, netting, string figures, a suite of technologies so old and ordinary that they often escape our attention. I call the study of their evolution _ethnotopology_. It sits inside my larger interest in ethnomathematics, the mathematics apparent in everyday life and crafts.
 
 > Why do humans, separated by oceans and millennia, keep arriving at the same solutions when innovating or solving problems? What knowledge is implicit in everyday material culture? How is such knowledge taught and learned, and how does it spread? Where does mathematics come from?
 
@@ -22,8 +22,6 @@ As a scientist, my work crosses cognitive science, cognitive anthropology, cross
 As a human, my interest is piqued by sea kayaking, music, the outdoors, photography, woodwork, knots, and mushrooms. I try to combine research and leisure wherever possible, on the firm belief that the best theory grows out of practical knowledge.
 
 If you'd like to get in touch, feel free to drop me a line. I'm always open to new ideas and collaborations.
-
-[^1]: I've heard most of the string puns — string theory, loose ends, no strings attached — but keep them coming.
 
 ***
 ###### © Roope Kaaronen, 2026
